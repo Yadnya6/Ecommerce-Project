@@ -64,6 +64,12 @@ The Report Comprises 3 Dashboards:
      
   You Can Interact With The Report Here [Here]([https://app.powerbi.com/groups/me/reports/0d0c765f-3253-43a4-9378-279277832743/ReportSectionf9e789b04bce22d87367?experience=power-bi](https://app.powerbi.com/groups/me/reports/cccdd1eb-7bf2-4ab4-a385-c6653a874be3?experience=power-bi)https://app.powerbi.com/groups/me/reports/cccdd1eb-7bf2-4ab4-a385-c6653a874be3?experience=power-bi)
 
+
+ 4. Mysql File
+
+![](Olist_Store_Analysiss.sql)
+
+
 ## Overview and features
 
 1. Mostly Used payment Modes
