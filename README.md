@@ -8,7 +8,7 @@ Along with the rapid growth of the E-commerce business around the world, it made
 ## Dataset
 
 -	Project Name: Olist Store Analysis
-- Dataset Name: Total 9 files
+- No. of Files: Total 9 files
 - Dataset Type: CSV Data
 - Dataset Zip Folder Size: 45 MB
 
